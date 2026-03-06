@@ -1,0 +1,2 @@
+# BeeCrowd
+Training mode
